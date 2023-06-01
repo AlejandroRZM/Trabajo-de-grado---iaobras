@@ -201,18 +201,21 @@ def code_2():
       c.setFont("Helvetica", 14)
       c.drawString(250,710,"Por: Daniel Alejandro Rodriguez Zamudio")
 
+      start_time = time.time()
+
       # Fecha y hora del reporte de detección
       c.setFont("Helvetica", 12)
       now = datetime.now()
       current_time = now.strftime("%d/%m/%Y, %H:%M:%S")
       c.drawString(30,690,"Fecha y hora del reporte de detección: " + current_time)
-
+      
       # Preparar para agregar las detecciones
+      # Antes de escribir la detección en el archivo PDF, agrega esta línea
       textobject = c.beginText()
       textobject.setTextOrigin(30, 670)
 
       # Cargar los nombres de las clases
-      with open("Terminados.names", "r") as f:
+      with open("yolov7.names", "r") as f:
           classes = [line.strip() for line in f.readlines()]
 
       # Definir un color para cada clase (en formato BGR para OpenCV)
@@ -223,7 +226,7 @@ def code_2():
       risk_color = (255, 165, 0)  # Color de la caja delimitadora cuando está en la zona de riesgo, en este caso rojo.
 
       # Cargar la red de YOLO
-      net = cv2.dnn.readNet("terminados_yolov4_best.weights", "terminados_yolov4.cfg")
+      net = cv2.dnn.readNet("yolov7_best.weights", "yolov7.cfg")
 
       # Cargar el video
       cap = cv2.VideoCapture('transformado.mp4')
@@ -338,6 +341,7 @@ def code_2():
           # Guardar el frame en el video de salida
           video_writer.write(frame)
 
+
       cap.release()
       video_writer.release()  # No olvides cerrar el VideoWriter
       cv2.destroyAllWindows()
@@ -345,9 +349,13 @@ def code_2():
       # Terminar de escribir en el PDF y guardarlo
       c.drawText(textobject)
       c.save()
+      end_time = time.time()
+      total_time = end_time - start_time
+      with open('total_detection_time.txt', 'w') as f:
+        f.write(f'Tiempo total de deteccion: {total_time:.2f} segundos')
       detection_done.set()
 
-
+  
   # Run your object detection in a new thread
   detection_thread = threading.Thread(target=object_detection)
   detection_thread.start()
