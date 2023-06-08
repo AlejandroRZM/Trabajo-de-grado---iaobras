@@ -1,3 +1,34 @@
+# -*- coding: utf-8 -*-
+
+"""
+Pontificia Universidad Javeriana
+
+Por: Daniel Alejandro Rodriguez Zamudio
+
+Junio, 2023
+
+Proyecto de grado para optar por el título de Ingeniero Electrónico
+
+    'Este proyecto realiza la selección de un video de entrada, luego
+    selecciona el área a procesar y finalmente realiza las detecciones de
+    los factores de riesgo en el video, para luego entregar los resultados
+    en la carpeta especificada.'
+
+# Este archivo es parte de 'Detección de factores de riesgo en obras de construcción por medio de inteligencia artificial'.
+# Copyright (c) [2023] Daniel Alejandro Rodriguez Zamudio
+# 
+# 'Detección de factores de riesgo en obras de construcción por medio de inteligencia artificial' is free software: you can redistribute it and/or modify
+# it under the terms of the Creative Commons Attribution-NonCommercial 4.0 International License.
+#
+# 'Detección de factores de riesgo en obras de construcción por medio de inteligencia artificial' is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# Creative Commons Attribution-NonCommercial 4.0 International License for more details.
+#
+# You should have received a copy of the Creative Commons Attribution-NonCommercial 4.0 International License
+# along with 'Detección de factores de riesgo en obras de construcción por medio de inteligencia artificial'. If not, see <http://creativecommons.org/licenses/by-nc/4.0/>.
+"""
+
 import os
 import sys
 import cv2
@@ -12,19 +43,6 @@ from reportlab.lib.pagesizes import letter
 from reportlab.lib import colors
 from reportlab.pdfgen import canvas
 from datetime import datetime
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 24 06:34:58 2023
-
-@author: zamud
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 24 06:34:58 2023
-
-@author: zamud
-"""
 
 
 def code_1():
