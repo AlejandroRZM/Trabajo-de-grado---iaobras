@@ -15,4 +15,4 @@ Due to GitHub's limitations for uploading files larger than 25 MB, we opted to l
 
 ## INDICE
 
-- [Configuración de la red neuronal](#yolov7.cfg)
+- [Configuración de la red neuronal](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov7.cfg)
