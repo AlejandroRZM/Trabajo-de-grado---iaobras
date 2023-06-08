@@ -13,6 +13,19 @@ Due to GitHub's limitations for uploading files larger than 25 MB, we opted to l
 
 [yolov7_best_weights](https://drive.google.com/drive/folders/1E7H8OOU8wHZciFfbfCve8SjCha2ivS07?usp=sharing)
 
+
+
 ## INDICE
 
 - [Configuración de la red neuronal](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov7.cfg)
+- [Código fuente del proyecto](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov7.py)
+- [Clases de la red neuronal](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov7.names)
+
+<details open>
+<summary>Google Drive</summary>
+
+Hola
+
+- [Pesos de la red nuronal - yolov7_best_weights](https://drive.google.com/drive/folders/1E7H8OOU8wHZciFfbfCve8SjCha2ivS07?usp=sharing)
+
+</details>
