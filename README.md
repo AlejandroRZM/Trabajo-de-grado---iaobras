@@ -12,3 +12,7 @@ Debido a las limitaciones de GitHub para subir archivos más grandes de 25 MB se
 Due to GitHub's limitations for uploading files larger than 25 MB, we opted to leave the .weights file of the neural network in a link to Google Drive."
 
 [yolov7_best_weights](https://drive.google.com/drive/folders/1E7H8OOU8wHZciFfbfCve8SjCha2ivS07?usp=sharing)
+
+## INDICE
+
+- [Configuración de la red neuronal](#yolov7.cfg)
