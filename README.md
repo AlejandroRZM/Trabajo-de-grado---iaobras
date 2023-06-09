@@ -19,7 +19,7 @@ A continuación, se incluye el link en Google Drive en el que se encuentra la ca
 
 </details>
 
-Si se va a usar el archivo ejecutable se recomienda leer antes el pdf [Manual de Usuario](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/user-manual/Manual%20de%20Usuario%20-%20Deteccion%20de%20factores%20de%20riesgo%20con%20IA.pdf).
+Si se va a usar el archivo ejecutable se recomienda leer antes el pdf [Manual de Usuario](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/tree/main/user-manual).
 
 También se adjuntan los archivos individuales de la red neuronal convolucional entrenada YOLOv7 y YOLOv4-tiny:
 
