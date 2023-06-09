@@ -2,9 +2,11 @@
 
 Este repositorio contiene todo lo necesario para el correcto funcionamiento del proyecto desarrollado en mi trabajo de grado "Detección de factores de riesgo en obras de construcción por medio de inteligencia artificial" para optar por el título de Ingeniero Electrónico de la Pontificia Universidad Javeriana.
 
-En el siguiente link se encuentra el 'Libro' del proyecto que documenta todo el proceso de planeación y ejecución para llevar acabo el proyecto.
+En el siguiente link se encuentra el 'Libro' del proyecto que documenta todo el proceso de planeación y ejecución para llevarlo acabo, este se encuentra en el repositorio público de la universidad.
 
 - [DOCUMENTO: Detección de factores de riesgo en obras de construcción por medio de inteligencia artificial](https://www.google.com)
+
+A continuación, se incluye el link en el que se encuentra el archivo ejecutable del proyecto, esto es, para quién desee hacer uso del software desarrollado, es necesario que descargue la carpeta y ejecute el archivo _yolov7.exe_ o _yolov4-tiny.exe_ según corresponda.
 
 ## ARCHIVOS INDIVIDUALES
 
