@@ -1,6 +1,8 @@
 # Trabajo de Grado en Ingeniería Electrónica
 
-<img src="https://th.bing.com/th/id/OIG.pfzD8_9w5_u_LC_syDQk?pid=ImgGn" width="200" alt="alt text">
+<p align="center">
+  <img width="200" src="https://th.bing.com/th/id/OIG.pfzD8_9w5_u_LC_syDQk?pid=ImgGn">
+</p>
 
 Este repositorio contiene todo lo necesario para el correcto funcionamiento del proyecto desarrollado en mi trabajo de grado "Detección de factores de riesgo en obras de construcción por medio de inteligencia artificial" para optar por el título de Ingeniero Electrónico de la Pontificia Universidad Javeriana.
 
