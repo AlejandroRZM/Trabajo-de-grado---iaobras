@@ -13,6 +13,7 @@ Este repositorio contiene todo lo necesario para el correcto funcionamiento del 
 
 Debido a las limitaciones de GitHub para subir archivos más grandes de 25 MB se opta por dejar en un enlace a Google Drive el archivo .weights de la red neuronal.
 
-- [Pesos de la red nuronal - yolov7_best_weights](https://drive.google.com/drive/folders/1E7H8OOU8wHZciFfbfCve8SjCha2ivS07?usp=sharing)
+- [Pesos de la red neuronal - yolov7_best_weights](https://drive.google.com/drive/folders/1E7H8OOU8wHZciFfbfCve8SjCha2ivS07?usp=sharing)
+- [Pesos de la red neuronal - yolov4_tiny_best_weights](https://drive.google.com/drive/folders/148tr3gdF-iLAOx_Pq7W3ZXVfVS46jqPK?usp=sharing)
 
 </details>
