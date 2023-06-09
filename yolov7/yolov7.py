@@ -15,18 +15,18 @@ Proyecto de grado para optar por el título de Ingeniero Electrónico
     en la carpeta especificada.'
 
 # Este archivo es parte de 'Detección de factores de riesgo en obras de construcción por medio de inteligencia artificial'.
-# Copyright (c) [2023] Daniel Alejandro Rodriguez Zamudio
+# Copyright (c) 2023 Daniel Alejandro Rodriguez Zamudio
 # 
 # 'Detección de factores de riesgo en obras de construcción por medio de inteligencia artificial' is free software: you can redistribute it and/or modify
-# it under the terms of the Creative Commons Attribution-NonCommercial 4.0 International License.
+# it under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 #
 # 'Detección de factores de riesgo en obras de construcción por medio de inteligencia artificial' is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-# Creative Commons Attribution-NonCommercial 4.0 International License for more details.
+# Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License for more details.
 #
-# You should have received a copy of the Creative Commons Attribution-NonCommercial 4.0 International License
-# along with 'Detección de factores de riesgo en obras de construcción por medio de inteligencia artificial'. If not, see <http://creativecommons.org/licenses/by-nc/4.0/>.
+# You should have received a copy of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+# along with 'Detección de factores de riesgo en obras de construcción por medio de inteligencia artificial'. If not, see <http://creativecommons.org/licenses/by-nc-sa/4.0/>.
 """
 
 import os
