@@ -4,9 +4,9 @@ Este repositorio contiene todo lo necesario para el correcto funcionamiento del 
 
 En el siguiente link se encuentra el 'Libro' del proyecto que documenta todo el proceso de planeación y ejecución para llevar acabo el proyecto.
 
-- [Documento: Detección de factores de riesgo en obras de construcción por medio de inteligencia artificial](https://www.google.com)
+- [DOCUMENTO: Detección de factores de riesgo en obras de construcción por medio de inteligencia artificial](https://www.google.com)
 
-## INDICE
+## ARCHIVOS INDIVIDUALES
 
 - [Configuración de la red neuronal](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov7.cfg)
 - [Código fuente del proyecto](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov7.py)
