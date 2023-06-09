@@ -1,5 +1,5 @@
 # Trabajo de Grado en Ingeniería Electrónica
-
+Por: Daniel Alejandro Rodriguez Zamudio
 <p align="center">
   <img width="500" src="https://www.javeriana.edu.co/recursosdb/20125/877826/EdIngenieriaLab1.JPG/f07c9bd5-cb9f-5126-3ce5-2f107c643f89">
 </p>
