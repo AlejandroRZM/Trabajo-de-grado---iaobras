@@ -8,7 +8,7 @@ Este repositorio contiene todo lo necesario para el correcto funcionamiento del 
 
 En el siguiente link se encuentra el 'Libro' del proyecto que documenta todo el proceso de planeación y ejecución para llevarlo acabo, este se encuentra en el repositorio público de la universidad.
 
-- [DOCUMENTO: Detección de factores de riesgo en obras de construcción por medio de inteligencia artificial](https://www.google.com)
+- [DOCUMENTO: Detección de factores de riesgo en obras de construcción por medio de inteligencia artificial](https://drive.google.com/file/d/1HJJk2VGIM9adBCzLEw9FcrmRgLoDk96A/view?usp=sharing)
 
 A continuación, se incluye el link en Google Drive en el que se encuentra la carpeta _'Ejecutable_deteccion_riesgos'_ en el que se encuentran dos subcarpetas, cada una conteniendo la carpeta en donde se encuentran los archivos _yolov4-tiny.exe_ y _yolov7.exe_ según corresponda. La única diferencia entre ambas es que la version YOLOv7 tiene mayor efectividad que YOLOv4-tiny pero esta última toma menos tiempo de procesamiento.
 
