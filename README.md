@@ -4,7 +4,7 @@
   <img width="550" src="https://www.javeriana.edu.co/recursosdb/20125/877826/EdIngenieriaLab1.JPG/f07c9bd5-cb9f-5126-3ce5-2f107c643f89">
 </p>
 
-## Detección de Factores de Riesgo en Entornos de Construcción
+## Detección de Factores de Riesgo en Entornos de Construcción Por Medio de Inteligencia Artificial
 ### Autor: Daniel Alejandro Rodriguez Zamudio
 
 Bienvenido a este repositorio que alberga el proyecto de investigación _"Detección de factores de riesgo en entornos de construcción por medio de inteligencia artificial"_ desarrollado como parte de mi titulación en Ingeniería Electrónica en la Pontificia Universidad Javeriana.
@@ -24,8 +24,8 @@ El análisis exhaustivo y detallado del proceso, desde la planificación hasta l
 
 ## Recursos
 
-## <details open>
-## <summary>📂 Ejecutables en Google Drive</summary>
+<details open>
+<summary>📂 Ejecutables en Google Drive</summary>
 
 - [Ejecutables](https://drive.google.com/drive/folders/1fD1Zt55NcRXYXGE_T_KE3I7PvjWunfRF?usp=sharing)
 
@@ -47,8 +47,8 @@ Antes de utilizar los ejecutables, recomiendo revisar el [Manual de Usuario](htt
 - [Clases de la Red Neuronal](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov4-tiny/yolov4.names)
 - [Código Fuente del Proyecto](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov4-tiny/yolov4.py)
 
-## <details open>
-## <summary>📂 Pesos de la Red Neuronal en Google Drive</summary>
+<details open>
+<summary>📂 Pesos de la Red Neuronal en Google Drive</summary>
 
 Debido a las limitaciones de GitHub para subir archivos mayores a 25 MB, los [pesos de la red neuronal YOLOv7](https://drive.google.com/drive/folders/1E7H8OOU8wHZciFfbfCve8SjCha2ivS07?usp=sharing) y [YOLOv4-tiny](https://drive.google.com/drive/folders/148tr3gdF-iLAOx_Pq7W3ZXVfVS46jqPK?usp=sharing) se encuentran en Google Drive.
 
