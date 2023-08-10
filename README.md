@@ -1,7 +1,7 @@
 # Trabajo de Grado en Ingeniería Electrónica
 
 <p align="center">
-  <img width="600" src="https://www.javeriana.edu.co/recursosdb/20125/877826/EdIngenieriaLab1.JPG/f07c9bd5-cb9f-5126-3ce5-2f107c643f89">
+  <img width="550" src="https://www.javeriana.edu.co/recursosdb/20125/877826/EdIngenieriaLab1.JPG/f07c9bd5-cb9f-5126-3ce5-2f107c643f89">
 </p>
 
 ## Detección de Factores de Riesgo en Obras de Construcción
@@ -17,7 +17,10 @@ Este trabajo de grado presenta la planificación y ejecución del proyecto imple
 
 This bachelor's degree work presents the planning and execution of the implemented project, focused on the identification of key risk factors such as the lack of use of personal protective equipment (PPE) and the danger of falls near slab edges. Through a collaboration with an occupational risk insurance company, access was gained to a construction site to acquire video footage, which was used to train an artificial intelligence model. The study centered on the training of two convolutional neural network topologies: YOLOv4-tiny and YOLOv7. The result is software developed in Python, designed to detect and report these risks. The software processes the video, identifies and marks risk areas with bounding boxes, and generates a report of the detected risks.
 
-<img src="img/diagrama-conexiones.png" width="400">
+<p align="center">
+  <img src="img/diagrama-conexiones.png" width="500">
+</p>
+
 
 ### Documentación Completa
 
