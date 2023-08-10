@@ -14,7 +14,7 @@ Bienvenido a este repositorio que alberga el proyecto de investigación _"Detecc
 Este trabajo de grado presenta la planificación y ejecución del proyecto implementado, enfocado en la identificación de factores de riesgo clave como la falta de uso de elementos de protección personal (EPP) y el peligro de caídas en proximidad a bordes de losa. Mediante una colaboración con una empresa de seguros de riesgos laborales, se obtuvo acceso a un sitio de construcción para adquirir metraje de video, el cual fue utilizado para entrenar un modelo de inteligencia artificial. El estudio se centró en el entrenamiento de dos topologías de redes neuronales convolucionales: YOLOv4-tiny y YOLOv7. El resultado es un software desarrollado en Python, diseñado para detectar y reportar estos riesgos. El software procesa el video, identifica y marca las áreas de riesgo con cajas delimitadoras, y genera un informe de los riesgos detectados.
 
 <p align="center">
-  <img src="img/diagrama-conexiones.png" width="500">
+  <img src="img/diagrama-conexiones.png" width="450">
 </p>
 
 
