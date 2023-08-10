@@ -50,7 +50,7 @@ Antes de utilizar los ejecutables, recomiendo revisar el [Manual de Usuario](htt
 <details open>
 <summary>📂 Pesos de la Red Neuronal en Google Drive</summary>
 
-Debido a las limitaciones de GitHub para subir archivos mayores a 25 MB, los [pesos de la red neuronal YOLOv7](https://drive.google.com/drive/folders/1E7H8OOU8wHZciFfbfCve8SjCha2ivS07?usp=sharing) y [YOLOv4-tiny](https://drive.google.com/drive/folders/148tr3gdF-iLAOx_Pq7W3ZXVfVS46jqPK?usp=sharing) se encuentran en Google Drive.
+Debido a las limitaciones de GitHub para subir archivos mayores a 25 MB, los pesos de la red neuronal [YOLOv7 (weights)](https://drive.google.com/drive/folders/1E7H8OOU8wHZciFfbfCve8SjCha2ivS07?usp=sharing) y [YOLOv4-tiny (weights)](https://drive.google.com/drive/folders/148tr3gdF-iLAOx_Pq7W3ZXVfVS46jqPK?usp=sharing) se encuentran en Google Drive.
 
 </details>
 
