@@ -22,12 +22,21 @@ Este trabajo de grado presenta la planificación y ejecución del proyecto imple
 
 El análisis exhaustivo y detallado del proceso, desde la planificación hasta la ejecución, se encuentra en el [_**documento asociado**_](https://repository.javeriana.edu.co/handle/10554/65196), ubicado en el repositorio público de la universidad.
 
-<table>
+<table align="center">
   <tr>
-    <td><img src="chart_yolov4.png" alt="YOLOv4-tiny"></td>
-    <td><img src="chart_yolov7.png" alt="YOLOv7"></td>
+    <td align="center">
+      <img src="img/chart_yolov4.png" alt="YOLOv4-tiny" width="400">
+      <br>
+      <em>YOLOv4-tiny</em>
+    </td>
+    <td align="center">
+      <img src="img/chart_yolov7.png" alt="YOLOv7" width="400">
+      <br>
+      <em>YOLOv7</em>
+    </td>
   </tr>
 </table>
+
 
 
 ## Recursos
