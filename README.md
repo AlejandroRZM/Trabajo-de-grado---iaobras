@@ -20,7 +20,7 @@ Un análisis exhaustivo y detallado del proceso, desde la planificación hasta l
 
 </details>
 
-Antes de utilizar los ejecutables, te recomiendo revisar el [Manual de Usuario](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/tree/main/user-manual) para una experiencia óptima.
+Antes de utilizar los ejecutables, recomiendo revisar el [Manual de Usuario](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/tree/main/user-manual) para una experiencia óptima.
 
 ### Redes Neuronales Convolucionales YOLO
 
