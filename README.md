@@ -17,7 +17,7 @@ Este trabajo de grado presenta la planificación y ejecución del proyecto imple
 
 This bachelor's degree work presents the planning and execution of the implemented project, focused on the identification of key risk factors such as the lack of use of personal protective equipment (PPE) and the danger of falls near slab edges. Through a collaboration with an occupational risk insurance company, access was gained to a construction site to acquire video footage, which was used to train an artificial intelligence model. The study centered on the training of two convolutional neural network topologies: YOLOv4-tiny and YOLOv7. The result is software developed in Python, designed to detect and report these risks. The software processes the video, identifies and marks risk areas with bounding boxes, and generates a report of the detected risks.
 
-![Diagrama general del proyecto](img/diagrama-conexiones.png)
+![Diagrama general del proyecto](img/diagrama-conexiones.png){:width="400px"}
 
 ### Documentación Completa
 
