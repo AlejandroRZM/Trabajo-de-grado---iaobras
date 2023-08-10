@@ -25,12 +25,12 @@ El análisis exhaustivo y detallado del proceso, desde la planificación hasta l
 <table align="center">
   <tr>
     <td align="center">
-      <img src="img/chart_yolov4.png" alt="YOLOv4-tiny" width="400">
+      <img src="img/chart_yolov4.png" alt="YOLOv4-tiny" width="450">
       <br>
       <em>YOLOv4-tiny</em>
     </td>
     <td align="center">
-      <img src="img/chart_yolov7.png" alt="YOLOv7" width="400">
+      <img src="img/chart_yolov7.png" alt="YOLOv7" width="450">
       <br>
       <em>YOLOv7</em>
     </td>
