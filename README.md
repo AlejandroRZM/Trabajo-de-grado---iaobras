@@ -9,6 +9,14 @@
 
 Bienvenido a este repositorio que alberga el proyecto de investigación "Detección de Factores de Riesgo en Obras de Construcción mediante Inteligencia Artificial," desarrollado como parte de mi titulación en Ingeniería Electrónica en la Pontificia Universidad Javeriana.
 
+### Resumen
+
+Este trabajo de grado presenta la planificación y ejecución del proyecto implementado, enfocado en la identificación de factores de riesgo clave como la falta de uso de elementos de protección personal (EPP) y el peligro de caídas en proximidad a bordes de losa. Mediante una colaboración con una empresa de seguros de riesgos laborales, se obtuvo acceso a un sitio de construcción para adquirir metraje de video, el cual fue utilizado para entrenar un modelo de inteligencia artificial. El estudio se centró en el entrenamiento de dos topologías de redes neuronales convolucionales: YOLOv4-tiny y YOLOv7. El resultado es un software desarrollado en Python, diseñado para detectar y reportar estos riesgos. El software procesa el video, identifica y marca las áreas de riesgo con cajas delimitadoras, y genera un informe de los riesgos detectados.
+
+### Abstract
+
+This bachelor's degree work presents the planning and execution of the implemented project, focused on the identification of key risk factors such as the lack of use of personal protective equipment (PPE) and the danger of falls near slab edges. Through a collaboration with an occupational risk insurance company, access was gained to a construction site to acquire video footage, which was used to train an artificial intelligence model. The study centered on the training of two convolutional neural network topologies: YOLOv4-tiny and YOLOv7. The result is software developed in Python, designed to detect and report these risks. The software processes the video, identifies and marks risk areas with bounding boxes, and generates a report of the detected risks.
+
 ### Documentación Completa
 
 Un análisis exhaustivo y detallado del proceso, desde la planificación hasta la ejecución, se encuentra en el [documento asociado](https://repository.javeriana.edu.co/handle/10554/65196), ubicado en el repositorio público de la universidad.
