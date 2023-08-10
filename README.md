@@ -39,13 +39,13 @@ Antes de utilizar los ejecutables, recomiendo revisar el [Manual de Usuario](htt
 
 - [Configuración de la Red Neuronal](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov7/yolov7.cfg)
 - [Clases de la Red Neuronal](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov7/yolov7.names)
-- [Código Fuente del Proyecto](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov7/yolov7.py)
+- [Código Fuente del Proyecto (usando YOLOv7)](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov7/yolov7.py)
 
 #### YOLOv4-tiny
 
 - [Configuración de la Red Neuronal](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov4-tiny/yolov4.cfg)
 - [Clases de la Red Neuronal](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov4-tiny/yolov4.names)
-- [Código Fuente del Proyecto](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov4-tiny/yolov4.py)
+- [Código Fuente del Proyecto (usando YOLOv4-tiny)](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov4-tiny/yolov4.py)
 
 <details open>
 <summary>📂 Pesos de la Red Neuronal en Google Drive</summary>
