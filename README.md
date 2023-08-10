@@ -7,7 +7,7 @@
 ## Detección de Factores de Riesgo en Entornos de Construcción Por Medio de Inteligencia Artificial
 ### Autor: Daniel Alejandro Rodriguez Zamudio
 
-Bienvenido a este repositorio que alberga el proyecto de investigación _"Detección de factores de riesgo en entornos de construcción por medio de inteligencia artificial"_ desarrollado como parte de mi titulación en Ingeniería Electrónica en la Pontificia Universidad Javeriana.
+Bienvenido a este repositorio que alberga el proyecto de investigación **_"Detección de factores de riesgo en entornos de construcción por medio de inteligencia artificial"_** desarrollado como parte de mi titulación en Ingeniería Electrónica en la Pontificia Universidad Javeriana.
 
 ### Resumen
 
