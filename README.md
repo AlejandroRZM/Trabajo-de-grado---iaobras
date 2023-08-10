@@ -17,42 +17,41 @@ Este trabajo de grado presenta la planificación y ejecución del proyecto imple
   <img src="img/diagrama-conexiones.png" width="500">
 </p>
 
-
 ### Documentación Completa
 
-El análisis exhaustivo y detallado del proceso, desde la planificación hasta la ejecución, se encuentra en el [documento asociado](https://repository.javeriana.edu.co/handle/10554/65196), ubicado en el repositorio público de la universidad.
+El análisis exhaustivo y detallado del proceso, desde la planificación hasta la ejecución, se encuentra en el [documento asociado](https://repository.javeriana.edu.co/handle/10554/65196){:target="_blank"}, ubicado en el repositorio público de la universidad.
 
 ## Recursos
 
 <details open>
 <summary>📂 Ejecutables en Google Drive</summary>
 
-- [Ejecutables](https://drive.google.com/drive/folders/1fD1Zt55NcRXYXGE_T_KE3I7PvjWunfRF?usp=sharing)
+- <a href="https://drive.google.com/drive/folders/1fD1Zt55NcRXYXGE_T_KE3I7PvjWunfRF?usp=sharing" target="_blank">Ejecutables</a>
 
 </details>
 
-Antes de utilizar los ejecutables, recomiendo revisar el [Manual de Usuario](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/tree/main/user-manual) para una experiencia óptima.
+Antes de utilizar los ejecutables, recomiendo revisar el [Manual de Usuario](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/tree/main/user-manual){:target="_blank"} para una experiencia óptima.
 
 ### Redes Neuronales Convolucionales YOLO
 
 #### YOLOv7
 
-- [Configuración de la Red Neuronal](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov7/yolov7.cfg)
-- [Clases de la Red Neuronal](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov7/yolov7.names)
-- [Código Fuente del Proyecto (usando YOLOv7)](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov7/yolov7.py)
+- [Configuración de la Red Neuronal](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov7/yolov7.cfg){:target="_blank"}
+- [Clases de la Red Neuronal](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov7/yolov7.names){:target="_blank"}
+- [Código Fuente del Proyecto (usando YOLOv7)](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov7/yolov7.py){:target="_blank"}
 
 #### YOLOv4-tiny
 
-- [Configuración de la Red Neuronal](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov4-tiny/yolov4.cfg)
-- [Clases de la Red Neuronal](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov4-tiny/yolov4.names)
-- [Código Fuente del Proyecto (usando YOLOv4-tiny)](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov4-tiny/yolov4.py)
+- [Configuración de la Red Neuronal](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov4-tiny/yolov4.cfg){:target="_blank"}
+- [Clases de la Red Neuronal](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov4-tiny/yolov4.names){:target="_blank"}
+- [Código Fuente del Proyecto (usando YOLOv4-tiny)](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/yolov4-tiny/yolov4.py){:target="_blank"}
 
 <details open>
 <summary>📂 Pesos de la Red Neuronal en Google Drive</summary>
 
-Debido a las limitaciones de GitHub para subir archivos mayores a 25 MB, los pesos de la red neuronal [YOLOv7 (weights)](https://drive.google.com/drive/folders/1E7H8OOU8wHZciFfbfCve8SjCha2ivS07?usp=sharing) y [YOLOv4-tiny (weights)](https://drive.google.com/drive/folders/148tr3gdF-iLAOx_Pq7W3ZXVfVS46jqPK?usp=sharing) se encuentran en Google Drive.
+Debido a las limitaciones de GitHub para subir archivos mayores a 25 MB, los pesos de la red neuronal [YOLOv7 (weights)](https://drive.google.com/drive/folders/1E7H8OOU8wHZciFfbfCve8SjCha2ivS07?usp=sharing){:target="_blank"} y [YOLOv4-tiny (weights)](https://drive.google.com/drive/folders/148tr3gdF-iLAOx_Pq7W3ZXVfVS46jqPK?usp=sharing){:target="_blank"} se encuentran en Google Drive.
 
 </details>
 
-## [Licencia](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/LICENSE.txt)
+## [Licencia](https://github.com/AlejandroRZM/Trabajo-de-grado---iaobras/blob/main/LICENSE.txt){:target="_blank"}
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Detección de Factores de Riesgo en Obras de Construcción mediante Inteligencia Artificial</span> de <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Daniel Alejandro Rodriguez Zamudio</span> está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional</a>.
