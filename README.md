@@ -20,7 +20,7 @@ Este trabajo de grado presenta la planificación y ejecución del proyecto imple
 
 ### Documentación Completa
 
-El análisis exhaustivo y detallado del proceso, desde la planificación hasta la ejecución, se encuentra en el [**documento asociado**](https://repository.javeriana.edu.co/handle/10554/65196), ubicado en el repositorio público de la universidad.
+El análisis exhaustivo y detallado del proceso, desde la planificación hasta la ejecución, se encuentra en el [_**documento asociado**_](https://repository.javeriana.edu.co/handle/10554/65196), ubicado en el repositorio público de la universidad.
 
 ## Recursos
 
