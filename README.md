@@ -1,4 +1,4 @@
-# Proyecto de Ingeniería Electrónica y Tecnologías Avanzadas
+# Trabajo de Grado en Ingeniería Electrónica
 
 <p align="center">
   <img width="600" src="https://www.javeriana.edu.co/recursosdb/20125/877826/EdIngenieriaLab1.JPG/f07c9bd5-cb9f-5126-3ce5-2f107c643f89">
@@ -11,7 +11,7 @@ Bienvenido a este repositorio que alberga el proyecto de investigación "Detecci
 
 ### Documentación Completa
 
-Un análisis exhaustivo y detallado del proceso, desde la planificación hasta la ejecución, se encuentra en el [documento asociado](https://drive.google.com/file/d/1HJJk2VGIM9adBCzLEw9FcrmRgLoDk96A/view?usp=sharing), ubicado en el repositorio público de la universidad.
+Un análisis exhaustivo y detallado del proceso, desde la planificación hasta la ejecución, se encuentra en el [documento asociado](https://repository.javeriana.edu.co/handle/10554/65196), ubicado en el repositorio público de la universidad.
 
 <details open>
 <summary>📂 Ejecutables en Google Drive</summary>
